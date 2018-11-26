@@ -1,4 +1,6 @@
 class DashboardsController < ApplicationController
-  def index
+  def home
+  end
+  def graphs
   end
 end
